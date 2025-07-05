@@ -44,6 +44,7 @@ export default {
         'bounce-slow': 'bounce 3s infinite',
         'spin-slow': 'spin 20s linear infinite',
         'gradient': 'gradient 8s linear infinite',
+        
       },
       keyframes: {
         float: {
@@ -57,5 +58,4 @@ export default {
       },
     },
   },
-  plugins: [],
-};
+}
