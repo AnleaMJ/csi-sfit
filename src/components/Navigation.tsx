@@ -23,7 +23,7 @@ export const Navigation: React.FC = () => {
     { path: '/team', label: 'Team', icon: Users },
     { path: '/gallery', label: 'Gallery', icon: Camera },
     { path: '/sponsors', label: 'Sponsors', icon: Award },
-    { path: '/join', label: 'Join CSI', icon: UserPlus },
+    //{ path: '/join', label: 'Join CSI', icon: UserPlus },
     { path: '/contact', label: 'Contact', icon: Mail },
   ];
 
